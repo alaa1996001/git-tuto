@@ -1,9 +1,89 @@
+.gray{
+    background-color:whitesmoke ;
+}
 @media (min-width: 992px){
     .navbar li {
-        margin-left : 4em;
-        margin-right : 4em;
+        margin-left : 2em;
+        margin-right : 2em;
     }
-    .container{
-        width:50%;
-    }
+
+
+#text1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 0px 0px 20px;
+    
 }
+#text2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 0px 0px 20px;
+}
+}
+#image{
+    width: 100%;
+    mix-blend-mode: darken;
+
+    
+}
+.button1{
+    color:purple;
+    background-color: white;
+}
+.button{
+    color:white;
+    background-color: purple;
+    font-size: large;
+}
+.form1{
+    background-color: white;
+    margin-right:10px;
+}
+#text1{
+    font-size: 50px;
+    font-weight: bold;
+}
+#paypal{
+    width:10%;
+
+    height:10%;
+}
+.powered{
+    display:flex;
+}
+#google{
+    width:10%;
+    height:10%;
+    margin-top:-5px;
+    margin-left:25px;
+}
+#text4{
+    color: purple;
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#text5{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.salem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#pen{
+    width: 50%;
+}
+
+.salem p{
+    text-align: center;
+}
+#text-pen1{
+    font-weight: bold;
+}
+
+
+
+
